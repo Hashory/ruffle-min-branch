@@ -1,3 +1,6 @@
+> [!Note]
+> This repo is less than 100MB for load into Gemini.
+
 <p align="center">
   <a href="https://ruffle.rs"><img alt="Ruffle" src="https://ruffle.rs/logo.svg" /></a>
 </p>
